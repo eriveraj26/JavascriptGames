@@ -1,0 +1,12 @@
+--> querySelector()
+    --> use to set dynamic elements
+--> addEventListener()
+    --> use to make different parts respond to interaction
+--> setInterval()
+    --> do a function (handler) at a designated interval
+--> classList
+    --> access classList for a specified element using dot notation
+--> forEach()
+    --> maps a function onto an element (in this example, using query selector)
+--> Arrow functions
+    --> () => {}
